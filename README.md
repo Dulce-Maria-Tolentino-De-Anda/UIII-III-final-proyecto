@@ -16,6 +16,11 @@ Captura
 cuando se guarda el dato en pantalla
 ## ![image](https://github.com/user-attachments/assets/661fef4d-672d-44fd-af89-789495744f61)
 
+editando el producto
+
+##![image](https://github.com/user-attachments/assets/bb28efbf-8c77-4978-9651-ffe1bf667bab)
+
+
 
 
 
